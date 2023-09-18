@@ -2,7 +2,7 @@
   "name": "vuekit",
   "displayName": "VUEKit",
   "description": "A collection of extensions for VUE development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "KalimahApps",
   "icon": "./logo.png",
   "galleryBanner": {
