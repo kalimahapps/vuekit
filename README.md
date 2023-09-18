@@ -13,7 +13,7 @@
 </a>
 </p>
 <br>
-A collection of extensions for PHP.
+A collection of extensions for VUE development in VSCode.
 <br>
 <br>
 
