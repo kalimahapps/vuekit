@@ -1,0 +1,42 @@
+{
+  "name": "vuekit",
+  "displayName": "VUEKit",
+  "description": "A collection of extensions for VUE development",
+  "version": "1.0.0",
+  "publisher": "KalimahApps",
+  "icon": "./logo.png",
+  "galleryBanner": {
+    "color": "#35495e",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalimahapps/vuekit"
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "bugs": {
+    "url": "https://github.com/kalimahapps/vuekit/issues"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "vue",
+    "typescript",
+    "snippets",
+    "extension pack"
+  ],
+  "license": "MIT",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "sdras.vue-vscode-snippets",
+    "yoavbls.pretty-ts-errors",
+    "KalimahApps.kalimahkit"
+  ]
+}
