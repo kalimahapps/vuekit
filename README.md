@@ -26,4 +26,6 @@ A collection of extensions for VUE development in VSCode.
 
 - **[Pretty TypeScript Errorsets](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)**: Make TypeScript errors prettier and more human-readable in VSCode
 
+- **[Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)**: Highlights matching opening or closing tags
+
 - **[KalimahKit](https://marketplace.visualstudio.com/items?itemName=KalimahApps.kalimahkit)**: Language agnostic collection of VSCode extensions for common development requirements

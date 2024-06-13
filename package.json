@@ -2,7 +2,7 @@
   "name": "vuekit",
   "displayName": "VUEKit",
   "description": "A collection of extensions for VUE development",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "KalimahApps",
   "icon": "./logo.png",
   "galleryBanner": {
@@ -37,6 +37,7 @@
     "Vue.vscode-typescript-vue-plugin",
     "sdras.vue-vscode-snippets",
     "yoavbls.pretty-ts-errors",
+    "vincaslt.highlight-matching-tag",
     "KalimahApps.kalimahkit"
   ]
 }
